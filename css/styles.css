@@ -90,6 +90,14 @@ body {
     display: none;
   }
 
+  .site-nav {
+    display: none;
+  }
+
+  .contacts-list {
+    display: none;
+  }
+
   .header-address-list {
     display: none;
   }
@@ -293,7 +301,7 @@ height: 100%;
       rgba(46, 47, 66, 0.7),
       rgba(46, 47, 66, 0.7)
     ),
-    url(../images/heromobile1x.jpg);
+    url(../images/people-office.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -307,7 +315,7 @@ height: 100%;
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url(../images/heromobile2x.jpg);
+      url(../images/people-office.jpg);
   }
 }
 
@@ -317,7 +325,7 @@ height: 100%;
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url(../images/herotablet1x.jpg);
+      url(../images/people-office.jpg);
   }
 }
 
@@ -327,7 +335,7 @@ height: 100%;
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url(../images/herotablet2x.jpg);
+      url(../images/people-office.jpg);
   }
 }
 
@@ -337,7 +345,7 @@ height: 100%;
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url(../images/herodesktop1x.jpg);
+      url(../images/people-office.jpg);
   }
 }
 
@@ -347,7 +355,7 @@ height: 100%;
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url(../images/herodesktop2x.jpg);
+      url(../images/people-office.jpg);
   }
 }
 
