@@ -385,7 +385,7 @@ footer .logo-color {
       rgba(46, 47, 66, 0.7),
       rgba(46, 47, 66, 0.7)
     ),
-    url(../images/heromobile1x.jpg);
+    url(../images/hero-mobile-image.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -399,7 +399,7 @@ footer .logo-color {
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url(../images/heromobile2x.jpg);
+      url(../images/hero-mobile-image.jpg);
   }
 }
 
@@ -409,7 +409,7 @@ footer .logo-color {
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url(../images/herotablet1x.jpg);
+      url(../images/hero-tablet-image.jpg);
   }
 }
 
@@ -419,7 +419,7 @@ footer .logo-color {
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url(../images/herotablet2x.jpg);
+      url(../images/hero-tablet-image.jpg);
   }
 }
 
@@ -429,7 +429,7 @@ footer .logo-color {
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url(../images/herodesktop1x.jpg);
+      url(../images/people-office.jpg);
   }
 }
 
@@ -439,7 +439,7 @@ footer .logo-color {
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url(../images/herodesktop2x.jpg);
+      url(../images/people-office.jpg);
   }
 }
 
